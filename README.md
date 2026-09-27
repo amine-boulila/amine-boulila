@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/amin-boulila"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amin.boulila@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:amin.boulila@etudiant-fst.utm.tn"><img src="https://img.shields.io/badge/-amin.boulila%40etudiant--fst.utm.tn-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/-Tunis%2C%20Tunisia-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-> Software Engineering student  with 3 internships spanning AI/ML, cloud infrastructure, and backend engineering. I've built production and research systems — from LLM fine-tuning and OCR pipelines to RAG-powered agents and cloud-native AWS architectures — consistently pushing accuracy, latency, and cost in the right direction.
+> Software Engineering student with 3 internships spanning AI/ML, cloud infrastructure, and backend engineering. I've built production and research systems — from LLM fine-tuning and OCR pipelines to RAG-powered agents and cloud-native AWS architectures — consistently pushing accuracy, latency, and cost in the right direction.
 
 ## 🧰 Tech Stack
 
@@ -44,7 +44,7 @@ Implemented distributed sync algorithms in C (Lamport clocks, token ring, leader
 ## 🎓 Education & Certifications
 
 - B.Eng. in Software Engineering — Faculty of Science of Tunis *(2024–2027)*
-- Pre-Engineering, Top 10 of cohort — Faculty of Science of Tunis *(2022–2024)*
+- Pre-Engineering — Faculty of Science of Tunis *(2022–2024)*
 - AWS Certified Cloud Practitioner · NVIDIA Deep Learning Fundamentals
 
 ## 🌍 Languages
@@ -53,4 +53,4 @@ Arabic (Native) · French (Advanced) · English (Advanced) · Spanish (Basic)
 
 ---
 
-<p align="center"><i>📫 Open to Cloud & DevOps or AI/ML Engineering roles — reach out at amin.boulila@gmail.com</i></p>
+<p align="center"><i>📫 Open to Cloud & DevOps or AI/ML Engineering roles — reach out at amin.boulila@etudiant-fst.utm.tn</i></p>
