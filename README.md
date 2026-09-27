@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Tunis%2C%20Tunisia-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-> Software Engineering student (Top 10 of cohort) with 3 internships spanning AI/ML, cloud infrastructure, and backend engineering. I've built production and research systems — from LLM fine-tuning and OCR pipelines to RAG-powered agents and cloud-native AWS architectures — consistently pushing accuracy, latency, and cost in the right direction.
+> Software Engineering student  with 3 internships spanning AI/ML, cloud infrastructure, and backend engineering. I've built production and research systems — from LLM fine-tuning and OCR pipelines to RAG-powered agents and cloud-native AWS architectures — consistently pushing accuracy, latency, and cost in the right direction.
 
 ## 🧰 Tech Stack
 
